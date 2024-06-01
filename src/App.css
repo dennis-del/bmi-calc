@@ -1,0 +1,11 @@
+body{
+  background-image: url('https://c8.alamy.com/comp/2GGJTW9/bmi-body-mass-index-and-weight-loss-banner-background-2GGJTW9.jpg');
+}
+#calc{
+  background: transparent;
+  color: yellow;
+}
+#reset{
+  margin-left: 80px;
+  color: yellow;
+}
